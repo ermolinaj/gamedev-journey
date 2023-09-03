@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"b2da2ddd4d5a5dd5","type":"text","text":"Presence","x":-135,"y":-49,"width":250,"height":60},
+		{"id":"c5910f363ed0658e","type":"text","text":"Web Presence","x":-135,"y":100,"width":250,"height":60},
+		{"id":"d1fcbcdb90813408","type":"text","text":"Web Page","x":-135,"y":200,"width":250,"height":60},
+		{"id":"2b6c2efac865439b","type":"text","text":"Portfolio","x":160,"y":100,"width":250,"height":60},
+		{"id":"bb9e6946247391a4","type":"text","text":"Content","x":460,"y":100,"width":250,"height":60},
+		{"id":"224071a40d74b0be","type":"text","text":"Tools","x":800,"y":100,"width":250,"height":60},
+		{"id":"a56b76dc8c550207","type":"text","text":"Games","x":800,"y":200,"width":250,"height":60},
+		{"id":"aa6f9a7fb8659c35","type":"text","text":"Itch.io","x":160,"y":11,"width":250,"height":60},
+		{"id":"816a121343aa7940","type":"text","text":"Skills","x":-135,"y":-280,"width":250,"height":60},
+		{"id":"45f8daea867d3cf2","type":"text","text":"Gamedev","x":180,"y":-280,"width":250,"height":60},
+		{"id":"fb727660b599dacc","type":"text","text":"Godot","x":500,"y":-280,"width":250,"height":60}
+	],
+	"edges":[]
+}
