@@ -10,7 +10,8 @@
 		{"id":"aa6f9a7fb8659c35","type":"text","text":"Itch.io","x":160,"y":11,"width":250,"height":60},
 		{"id":"816a121343aa7940","type":"text","text":"Skills","x":-135,"y":-280,"width":250,"height":60},
 		{"id":"45f8daea867d3cf2","type":"text","text":"Gamedev","x":180,"y":-280,"width":250,"height":60},
-		{"id":"fb727660b599dacc","type":"text","text":"Godot","x":500,"y":-280,"width":250,"height":60}
+		{"id":"fb727660b599dacc","type":"text","text":"Godot","x":500,"y":-280,"width":250,"height":60},
+		{"id":"0d05931673fffaf6","x":160,"y":200,"width":250,"height":60,"type":"text","text":"GitHub"}
 	],
 	"edges":[]
 }

@@ -76,6 +76,54 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Learning/Learning Resources/Complete Godot 4 Game Developer 2D Online Course.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3a4d38f9b8d0b4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Learning Resources/Complete Godot 4 Game Developer 2D Online Course.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08279f043f20356b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Learning Resources/Complete Godot 4 Game Developer 2D Online Course.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aba423b6fca62a91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Learning Resources/Complete Godot 4 Game Developer 2D Online Course.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff78be0e392c1eff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Daily Progress/2023-09-03.md",
                 "mode": "source",
                 "source": false
@@ -83,7 +131,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -210,44 +258,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0e777f83933ceba",
+  "active": "ff78be0e392c1eff",
   "lastOpenFiles": [
+    "Learning/Learning Resources/Complete Godot 4 Game Developer 2D Online Course.md",
+    "Daily Progress/2023-09-03.md",
+    "Learning/Learning Notes/Godot 4/Signals.md",
+    "Attachments/Pasted image 20230904040125.png",
+    "Attachments/Pasted image 20230904032625.png",
+    "Attachments/Pasted image 20230904032603.png",
+    "Attachments/Pasted image 20230904032437.png",
+    "Attachments/Pasted image 20230904032344.png",
+    "Attachments/Pasted image 20230904032134.png",
+    "Learning/Learning Notes/Godot 4/CollisionPolygon2D.md",
+    "Attachments/Pasted image 20230904031349.png",
+    "Attachments/Pasted image 20230904030211.png",
+    "Attachments/Pasted image 20230904030022.png",
+    "Attachments/Pasted image 20230904025900.png",
+    "Learning/Learning Notes/Godot 4/Area2D.md",
+    "Learning/Learning Notes/Godot 4/CollisionShape2D.md",
+    "Learning/Learning Notes/Godot 4/Camera2D.md",
+    "Learning/Learning Resources/Lerarning notes.md",
+    "Learning/Learning Notes/Godot 4/GDScript Basics.md",
+    "Daily Progress/2023-09-02.md",
+    "Learning/Learning Notes/Godot 4/Input class.md",
+    "Learning/Learning Notes/Godot 4/Input Maps.md",
+    "Learning/Learning Notes/Godot 4/Editor Hotkeys.md",
+    "Learning/Learning Notes/Godot 4/Nodes.md",
+    "Learning/Learning Notes/Godot 4/RigidBody2D.md",
+    "Learning/Learning Notes/Godot 4/Engine Class.md",
+    "Learning/Learning Notes/Godot 4/Scene.md",
+    "Learning/Learning Notes/Godot 4/Scripting.md",
+    "Roadmap/MindMap.canvas",
+    "Misc Resources/Godot/ColorThemes.md",
+    "Misc Resources/Godot",
+    "Misc Resources",
+    "Learning/Learning Notes/Godot 4/TextureRect.md",
+    "README.md",
     "gamedev-journey/README.md",
     "gamedev-journey",
-    "Daily Progress/2023-09-02.md",
-    "Daily Progress/2023-09-03.md",
-    "Learning/Learning Resources/Lerarning notes.md",
-    "Learning/Learning Resources/Complete Godot 4 Game Developer 2D Online Course.md",
-    "Learning/Learning Notes/Godot 4/Scene.md",
-    "Attachments/Pasted image 20230903023641.png",
-    "Learning/Learning Notes/Godot 4/Untitled.md",
-    "Learning/Learning Notes/Godot 4/Nodes.md",
-    "Attachments/Pasted image 20230903022905.png",
-    "Learning/Learning Notes/Godot 4/RigidBody2D.md",
-    "Attachments/Pasted image 20230902194940.png",
-    "Attachments/Pasted image 20230902194329.png",
-    "Attachments/Pasted image 20230902194217.png",
-    "Learning/Learning Notes/Godot 4/TextureRect.md",
-    "Learning/Learning Notes/Godot 4/CollisionShape2D.md",
-    "Attachments/Pasted image 20230902193813.png",
     "Learning/Learning Notes/Godot/Background 2D.md",
-    "Attachments/Pasted image 20230902164308.png",
     "Attachments",
-    "Attachments/Pasted image 20230902145820.png",
     "Learning/Learning Notes/Godot 4",
     "Learning/Learning Notes",
     "Learning",
-    "Roadmap/MindMap.canvas",
     "Roadmap.md",
     "Roadmap",
-    "Inspiration/Game OSTs.md",
+    "Misc Resources/Inspiration/Game OSTs.md",
     "Learning Resources/Untitled.canvas",
-    "Inspiration",
+    "Misc Resources/Inspiration",
     "Learning/Learning Resources",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "Daily Progress/Untitled.canvas",
-    "Daily Progress/Untitled",
-    "Daily Progress"
+    "Daily Progress/Untitled.canvas"
   ]
 }

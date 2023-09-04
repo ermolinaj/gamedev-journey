@@ -1,0 +1,2 @@
+- `alt + arrow` key moves the selected line upper or downward.
+- `ctrl+click` on a method name automatically opens GDScript in-engine documentation

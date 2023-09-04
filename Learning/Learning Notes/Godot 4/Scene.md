@@ -19,4 +19,4 @@ When a game is running you can monitor scene current nodes and their properties 
 Nodes Above nodes will be displayed behind those nodes:
 ![[Pasted image 20230903023641.png]]
 
-The Z Index can be changed to 
+The Z Index can be changed inside Node2D nodes in order to change this behaviour.
