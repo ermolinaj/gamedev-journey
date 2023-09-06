@@ -1,0 +1,1 @@
+receives a packed scene as an argument and creates an instance of of it in the current scene in which this script is attached.

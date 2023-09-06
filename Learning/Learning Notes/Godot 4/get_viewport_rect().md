@@ -1,0 +1,1 @@
+Returns a Vector2 with the current size of the rendered game window.

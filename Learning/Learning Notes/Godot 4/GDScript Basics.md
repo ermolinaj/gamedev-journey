@@ -1,7 +1,7 @@
 ## Functions
 Declare with the `func` keyword, then by a name and parameters between `( )` and function body starts with the `:` character after a name is given to the function.
 Functions content have to be indented when inside a function body.
-
+You can use the `pass` keyword if you want to declare a function without content.
 ### Return values
 Using the `return` keyword you can return a value when the function finishes executing.
 When the function is called this value can be used by, for example, assigning it to a variable or as an argument.
@@ -43,6 +43,11 @@ Assignment is made post declaration using the variable name and the `=` sign fol
 This variable scope is global for the script
 ![[Pasted image 20230904022552.png]]
 If a variable its defined inside a function or code block (for example an if statement) once the function or de code block finishes executing the variable is disposed.
+
+### Exports
+By using the `@export` keyword the defined variable is visible on the script´s assigned node Inspector, allowing you to modify ins value from the inspector:
+![[Pasted image 20230905021121.png]]
+![[Pasted image 20230905021147.png]]
 
 ---
 ## If statements

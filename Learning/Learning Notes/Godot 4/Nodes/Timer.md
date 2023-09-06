@@ -1,0 +1,1 @@
+You can use the `_on_timer_timeout()` so it emits when time is depleted.

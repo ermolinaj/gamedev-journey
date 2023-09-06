@@ -1,0 +1,1 @@
+Same as [[load()]] but is loaded once on first execution, after that it doesn´t load the same scene again.

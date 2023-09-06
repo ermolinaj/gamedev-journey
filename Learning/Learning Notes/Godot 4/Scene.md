@@ -14,9 +14,9 @@ Changes made to editable children nodes are undone if the option is toggled agai
 ## Local Monitoring 
 When a game is running you can monitor scene current nodes and their properties in the Local tab:
 ![[Pasted image 20230902194217.png]]
-
 ## Draw Order
 Nodes Above nodes will be displayed behind those nodes:
 ![[Pasted image 20230903023641.png]]
 
 The Z Index can be changed inside Node2D nodes in order to change this behaviour.
+

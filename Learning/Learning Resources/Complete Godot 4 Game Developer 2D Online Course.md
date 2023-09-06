@@ -52,5 +52,53 @@ Here are its sections and personal notes associated with each chapter:
 [[CollisionPolygon2D]]
 ## Using Signals To Reset The Game
 [[Signals]]
+[[Scene Tree]]
+[[Debug#Visible collision shapes]]
+## Parallax Background & Text Labels
+[[CanvasLayer]]
+[[Label]]
+[[Nodes]]
+[[CanvasLayer#Anchors]]
 
 ---
+# Alien Atack
+## Section Intro
+## Project Setup & Player Scene
+[[Useful Project Settings#Window Stretch mode]]
+## Player Movement
+[[CharacterBody2D]]
+## Clamping Players Position
+[[global_position]]
+[[get_viewport_rect()]]
+[[clampf()]]
+## Rocket Scene & Movement
+[[GDScript Basics#Variables#Exports]]
+## Understanding Delta Time
+[[Physics Ticks per Second]]
+## Shooting Rockets
+[[Scripting#Instancing]]
+[[Input class#is_action_just_pressed()]]
+[[load()]]
+[[preload()]]
+## Creating References To Nodes
+[[get_node()]]
+## Deleting Unwanted Rockets
+[[VisibleOnScreenNotifier2D]]
+[[Signals#Connect()]]
+[[queue_free()]]
+## Enemy Scene & Movement
+## Enemy Spawner Scene
+[[Marker2D]]
+[[Timer]]
+## Spawn Enemy Function
+[[get_children()]]
+[[get_random()]]
+## Shooting Enemies & Collision Layers
+[[Collision Layers]]
+## Enemy Deathzone
+## Lives & Custom Signals
+[[Custom Signals]]
+## Scoring & Enemy Died Signal
+[[Custom Signals]]
+
+--

@@ -1,0 +1,1 @@
+Returns an array of references to node's children.

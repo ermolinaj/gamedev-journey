@@ -16,3 +16,7 @@ Clicking the icon will show you the connection detail:
 
 To stop the signal from calling the assigned method on connection you can use the disconnect button:
 ![[Pasted image 20230904040125.png]]
+
+## Connect()
+Connect method is available for every node and can be used to reference a signal and connect it by script, without using the inspector.
+![[Pasted image 20230905160152.png]]
