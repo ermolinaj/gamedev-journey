@@ -1,1 +1,1 @@
-When naming a Node `_00` if you duplicate it inside a scene automatically
+When naming a Node `_00` if you duplicate it inside a scene automatically increments this number in the name.

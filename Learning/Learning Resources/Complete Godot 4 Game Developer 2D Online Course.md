@@ -100,5 +100,35 @@ Here are its sections and personal notes associated with each chapter:
 [[Custom Signals]]
 ## Scoring & Enemy Died Signal
 [[Custom Signals]]
+## Score UI
+[[Control]]
+## Lives UI
+## Game Over Screen
+[[Panel]]
+[[Button]]
+[[get_node()]] Reload currentScene() method.
+[[await]]
+## Adding Sound Effects
+[[AudioStreamPlayer]]
+## Flame Particle Effect
+[[GpuParticles2D]]
+## Path Enemy
+[[Path2D]]
+[[PathFollow2D]]
+## Adding Path Enemy To The Spawner
+[[@onready]]
+## Wrap Up Alien Atack
 
---
+---
+# Martian Mike
+## Project Setup - Martian Mike
+[[Sprite2D#Working with pixel art]]
+[[Scene Tree]] `quit()` method
+## Animated Sprites
+[[AnimatedSprite2D]]
+## Player Movement
+[[StaticBody2D]]
+[[CharacterBody2D#is_on_floor()]]
+## Boolean Operators
+
+## Updating Animations

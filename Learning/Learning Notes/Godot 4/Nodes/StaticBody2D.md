@@ -1,0 +1,1 @@
+A Physics body without movement in mind.
