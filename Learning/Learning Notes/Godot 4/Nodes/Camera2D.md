@@ -10,3 +10,8 @@ Smooth scrolling activates the position speed property which, for example, can b
 Drag effect is used  when you dont want the camera to move inmediatly if the parent position changes.
 ![[Pasted image 20230904025130.png]]
 It can be used with position smoothing to create a better effect.
+
+## Limit
+
+You can use the limit properties to prevent the camera from moving from a certain point in a scene
+![[Pasted image 20230908140536.png]]

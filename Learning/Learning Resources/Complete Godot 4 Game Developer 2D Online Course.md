@@ -132,3 +132,18 @@ Here are its sections and personal notes associated with each chapter:
 ## Boolean Operators
 
 ## Updating Animations
+
+## Deathzone
+[[Ruler tool]]
+[[Camera2D#Limit]]
+## Jump Pad
+[[class_name]]
+## Traps
+[[AnimationPlayer]] is introduced
+[[Scripting]] multiple ndoes using the same script
+[[Signals]] new emission method for Godot4
+## Animation Player
+
+## Arrays & Groups
+[[Arrays]]
+[[Groups]]
