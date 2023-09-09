@@ -147,3 +147,16 @@ Here are its sections and personal notes associated with each chapter:
 ## Arrays & Groups
 [[Arrays]]
 [[Groups]]
+## The For Loop
+[[For Loop]]
+[[Signals#Connect()]] new connect method in Godot4
+## Tilemap Basics
+[[Tilemap]]
+## Tilemap Terrains (Autotile)
+[[Tilemap#Terrains]]
+## Scrolling Backgrounds
+[[ParallaxBackground]]
+[[ParallaxLayer]]
+[[Sprite2D#RegionRects]]
+[[Background Scrolling Effect]]
+[[Restricting Types]]

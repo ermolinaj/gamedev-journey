@@ -21,6 +21,9 @@ To stop the signal from calling the assigned method on connection you can use th
 Connect method is available for every node and can be used to reference a signal and connect it by script, without using the inspector.
 ![[Pasted image 20230905160152.png]]
 
+In Godot4 there is an alternative to the connect() method, which is using the signal directly followed by the connect method which receives the function to call as an argument:
+![[Pasted image 20230909015923.png]]
+
 ## Emmit
 In Godot4 there is a new way to emmit a signal by coe
 ![[Pasted image 20230908153422.png]]
