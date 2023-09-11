@@ -1,0 +1,1 @@
+Using the get_tree() method you can call the `change_scene_to_packed()`, which receives a PackedScene

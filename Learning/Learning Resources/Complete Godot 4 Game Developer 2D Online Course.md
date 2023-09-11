@@ -160,3 +160,8 @@ Here are its sections and personal notes associated with each chapter:
 [[Sprite2D#RegionRects]]
 [[Background Scrolling Effect]]
 [[Restricting Types]]
+## Start Area
+[[null value]]
+## Exit Area
+## Changing Scenes
+[[Change Scene]]

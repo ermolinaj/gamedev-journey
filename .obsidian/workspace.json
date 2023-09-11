@@ -104,6 +104,42 @@
             }
           },
           {
+            "id": "524e7bb4b7b3fe9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Learning Resources/Complete Godot 4 Game Developer 2D Online Course.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7894a179c3c7a4f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learning/Learning Resources/Complete Godot 4 Game Developer 2D Online Course.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb6ba5f630cfe056",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Progress/2023-09-10.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "e2f96783e7bf896a",
             "type": "leaf",
             "state": {
@@ -140,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -206,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Progress/2023-09-09.md",
+                "file": "Daily Progress/2023-09-10.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Progress/2023-09-09.md",
+                "file": "Daily Progress/2023-09-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Progress/2023-09-09.md"
+                "file": "Daily Progress/2023-09-10.md"
               }
             }
           }
@@ -267,11 +303,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "242fba9e2a373972",
+  "active": "bb6ba5f630cfe056",
   "lastOpenFiles": [
+    "Learning/Learning Notes/Godot 4/Change Scene.md",
+    "Learning/Learning Resources/Complete Godot 4 Game Developer 2D Online Course.md",
+    "Learning/Learning Notes/Godot 4/null value.md",
+    "Attachments/Pasted image 20230910164455.png",
+    "Daily Progress/2023-09-10.md",
+    "Daily Progress/2023-09-05.md",
+    "Daily Progress/2023-09-07.md",
+    "Daily Progress/2023-09-08.md",
+    "Daily Progress/2023-09-09.md",
     "Learning/Learning Notes/Godot 4/Restricting Types.md",
     "Attachments/Pasted image 20230909202426.png",
-    "Learning/Learning Resources/Complete Godot 4 Game Developer 2D Online Course.md",
     "Learning/Learning Notes/Godot 4/Background Scrolling Effect.md",
     "Attachments/Pasted image 20230909202149.png",
     "Learning/Learning Notes/Godot 4/Nodes/ParallaxLayer.md",
@@ -281,18 +325,14 @@
     "Attachments/Pasted image 20230909195821.png",
     "Attachments/Pasted image 20230909195716.png",
     "Learning/Learning Notes/Godot 4/Nodes/ParallaxBackground.md",
-    "Daily Progress/2023-09-09.md",
     "Learning/Learning Notes/Godot 4/Nodes/Tilemap.md",
     "Attachments/Pasted image 20230909170413.png",
     "Attachments/Pasted image 20230909165350.png",
     "Attachments/Pasted image 20230909165159.png",
-    "Attachments/Pasted image 20230909165021.png",
     "Learning/Learning Notes/Godot 4/Signals.md",
     "Learning/Learning Notes/Godot 4/Nodes/AnimationPlayer.md",
-    "Untitled.md",
     "Learning/Learning Notes/Godot 4/For Loop.md",
     "Learning/Learning Notes/Godot 4/Arrays.md",
-    "Daily Progress/2023-09-08.md",
     "Learning/Learning Notes/Godot 4/Groups.md",
     "Learning/Learning Notes/Godot 4/Scripting.md",
     "Learning/Learning Notes/Godot 4/class_name.md",
@@ -300,10 +340,7 @@
     "Learning/Learning Notes/Godot 4/Ruler tool.md",
     "Learning/Learning Notes/Godot 4/Editor Shortcuts.md",
     "Learning/Learning Notes/Godot 4/Nodes/Untitled.md",
-    "Daily Progress/2023-09-07.md",
-    "Daily Progress/2023-09-05.md",
     "Daily Progress/2023-09-04.md",
-    "Daily Progress/2023-09-02.md",
     "Roadmap/MindMap.canvas",
     "Learning/Learning Notes/Godot 4/Cool Tricks",
     "Learning/Learning Notes/Godot 4/Nodes",
