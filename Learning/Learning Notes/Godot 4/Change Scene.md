@@ -1,1 +1,1 @@
-Using the get_tree() method you can call the `change_scene_to_packed()`, which receives a PackedScene
+Using the get_tree() method you can call the `change_scene_to_packed()` or `change_scene_to_file()`, which receives a PackedScene or a path to a scene in the project.

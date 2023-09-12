@@ -165,3 +165,11 @@ Here are its sections and personal notes associated with each chapter:
 ## Exit Area
 ## Changing Scenes
 [[Change Scene]]
+## More Levels
+[[Create a Scene from a Node]]
+## Level Timer
+[[Create a Node from script]]
+## Timer HUD
+## Win Screen
+[[ColorRect]]
+[[Node Visible property]]
