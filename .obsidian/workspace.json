@@ -4,239 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ac0e033ca1ecd64c",
+        "id": "7bc3023569110ef8",
         "type": "tabs",
         "children": [
           {
-            "id": "64d9cbcbbbe7659d",
+            "id": "57bffd3a98aa839c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Progress/2023-09-09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "014eace90868bf49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Learning Resources/Complete Godot 4 Game Developer 2D Online Course.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99acce326274dd97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Learning Notes/Godot 4/Nodes/ParallaxBackground.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d5f23fa05ab35d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Learning Resources/Complete Godot 4 Game Developer 2D Online Course.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "697070d35d8137ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Learning Resources/Complete Godot 4 Game Developer 2D Online Course.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b80d31e7d67f04f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Learning Resources/Complete Godot 4 Game Developer 2D Online Course.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ef83c6b39fbf84b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Learning Resources/Complete Godot 4 Game Developer 2D Online Course.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "242fba9e2a373972",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Progress/2023-09-09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "524e7bb4b7b3fe9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Learning Resources/Complete Godot 4 Game Developer 2D Online Course.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7894a179c3c7a4f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Learning Resources/Complete Godot 4 Game Developer 2D Online Course.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bb6ba5f630cfe056",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Learning Resources/Complete Godot 4 Game Developer 2D Online Course.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87a3a1ad24230ef3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Learning Resources/Complete Godot 4 Game Developer 2D Online Course.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "efc57c0a82688ebb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Learning Resources/Complete Godot 4 Game Developer 2D Online Course.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4b579f8efdbf392a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Learning Resources/Complete Godot 4 Game Developer 2D Online Course.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ad0995095c7b450",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Learning Resources/Complete Godot 4 Game Developer 2D Online Course.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27972df971533136",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Learning Notes/Godot 4/Node Visible property.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2f96783e7bf896a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Learning Notes/Godot 4/Nodes/Tilemap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90624c201b2a1f7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Learning Notes/Godot 4/Nodes/Tilemap.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9eba9cb2cb4eed94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Learning/Learning Notes/Godot 4/Signals.md",
+                "file": "Prototypes/Dungeon crawler prototype.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 15
+        ]
       }
     ],
     "direction": "vertical"
@@ -260,6 +43,14 @@
             }
           },
           {
+            "id": "0fd3a9e8c3459a7a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
             "id": "5150411246184666",
             "type": "leaf",
             "state": {
@@ -272,14 +63,6 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "0fd3a9e8c3459a7a",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
             }
           }
         ]
@@ -302,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Learning Notes/Godot 4/Node Visible property.md",
+                "file": "Prototypes/Dungeon crawler prototype.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -319,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Learning Notes/Godot 4/Node Visible property.md",
+                "file": "Prototypes/Dungeon crawler prototype.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,7 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Learning Notes/Godot 4/Node Visible property.md"
+                "file": "Prototypes/Dungeon crawler prototype.md"
+              }
+            }
+          },
+          {
+            "id": "9051398f7ea7d0d1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -363,44 +156,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27972df971533136",
+  "active": "57bffd3a98aa839c",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20230911234400.png",
+    "Daily Progress/2023-09-18.md",
+    "Learning/Learning Notes/Godot 4/Nodes/Sprite2D.md",
+    "Learning/Learning Notes/Godot 4/Nodes/Tilemap.md",
+    "Prototypes/Dungeon crawler prototype.md",
+    "Daily Progress/2023-09-16.md",
+    "Learning/Learning Notes/Godot 4/Nodes/Raycast2D.md",
+    "Attachments/Pasted image 20230917221132.png",
+    "Daily Progress/2023-09-17.md",
     "Learning/Learning Resources/Complete Godot 4 Game Developer 2D Online Course.md",
+    "Learning/Single line operators.md",
+    "Attachments/Pasted image 20230916205544.png",
+    "Attachments/Pasted image 20230916205515.png",
+    "Daily Progress/2023-09-15.md",
+    "Misc Resources/Inspiration/Game OSTs.md",
+    "Misc Resources/Godot/ColorThemes.md",
+    "Misc Resources/Assets/Fonts.md",
+    "Misc Resources/Assets/Fonts/Untitled.md",
+    "Prototypes/FarmOS.md",
+    "Misc Resources/Assets/Fonts",
+    "Misc Resources/Assets",
+    "Daily Progress/2023-09-12.md",
+    "Prototypes",
+    "Learning/Learning Notes/Godot 4/Signals.md",
+    "Learning/Learning Notes/Godot 4/await.md",
+    "Learning/Learning Notes/Godot 4/Autoload Scene.md",
+    "Attachments/Pasted image 20230912114648.png",
+    "Attachments/Pasted image 20230912012830.png",
+    "Change the Starting Scene.md",
+    "Daily Progress/2023-09-11.md",
+    "Start Menu.md",
     "Learning/Learning Notes/Godot 4/Node Visible property.md",
+    "Attachments/Pasted image 20230911234400.png",
     "Learning/Learning Notes/Godot 4/Button.md",
     "Learning/Learning Notes/Godot 4/Nodes/ColorRect.md",
-    "Daily Progress/2023-09-11.md",
     "Learning/Learning Notes/Godot 4/Nodes/Create a Node from script.md",
     "Attachments/Pasted image 20230911014402.png",
     "Attachments/Pasted image 20230911014337.png",
     "Attachments/Pasted image 20230911014228.png",
     "Attachments/Pasted image 20230911014202.png",
-    "Daily Progress/2023-09-09.md",
-    "Daily Progress/2023-09-10.md",
-    "Learning/Learning Notes/Godot 4/Create a Scene from a Node.md",
-    "Attachments/Pasted image 20230911011716.png",
-    "Learning/Learning Notes/Godot 4/Change Scene.md",
-    "Learning/Learning Notes/Godot 4/null value.md",
-    "Attachments/Pasted image 20230910164455.png",
-    "Daily Progress/2023-09-05.md",
-    "Daily Progress/2023-09-07.md",
-    "Daily Progress/2023-09-08.md",
-    "Learning/Learning Notes/Godot 4/Restricting Types.md",
-    "Attachments/Pasted image 20230909202426.png",
-    "Learning/Learning Notes/Godot 4/Background Scrolling Effect.md",
-    "Attachments/Pasted image 20230909202149.png",
-    "Learning/Learning Notes/Godot 4/Nodes/ParallaxLayer.md",
-    "Attachments/Pasted image 20230909201552.png",
-    "Learning/Learning Notes/Godot 4/Nodes/Sprite2D.md",
-    "Attachments/Pasted image 20230909200354.png",
-    "Learning/Learning Notes/Godot 4/Nodes/ParallaxBackground.md",
-    "Learning/Learning Notes/Godot 4/Nodes/Tilemap.md",
-    "Learning/Learning Notes/Godot 4/Signals.md",
-    "Learning/Learning Notes/Godot 4/Nodes/AnimationPlayer.md",
-    "Learning/Learning Notes/Godot 4/For Loop.md",
-    "Learning/Learning Notes/Godot 4/Arrays.md",
-    "Learning/Learning Notes/Godot 4/Groups.md",
     "Roadmap/MindMap.canvas",
     "Learning/Learning Notes/Godot 4/Cool Tricks",
     "Learning/Learning Notes/Godot 4/Nodes",
@@ -409,9 +205,6 @@
     "gamedev-journey",
     "Attachments",
     "Learning/Learning Notes/Godot 4",
-    "Learning/Learning Notes",
-    "Learning",
-    "Roadmap",
     "Learning Resources/Untitled.canvas",
     "Daily Progress/Untitled.canvas"
   ]

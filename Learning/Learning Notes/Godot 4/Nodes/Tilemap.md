@@ -6,7 +6,7 @@ When working with these Node two menues appear at the bottom:
 TileSet allows you to create a new Atlas. An atlas contains a Texture and allow you to create tiles:
 ![[Pasted image 20230909021321.png]]
 
-After creted in the atlas you may selecte a tile and use it to "paint" over the scene:
+After creted in the atlas you may select a tile and use it to "paint" over the scene:
 ![[Pasted image 20230909021649.png]]
 
 Multiple tiles may be selected as once:
@@ -22,6 +22,8 @@ You can select one or multiple tiles and define collision shapes for tiles over 
 You can select points using the polygon tools:
 ![[Pasted image 20230909023002.png]]
 F key selects the whole square
+
+In order to do this a Physics layer must be defined for the TileSet.
 
 One way collisions can be made by selecting this option:
 ![[Pasted image 20230909024050.png]]

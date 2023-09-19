@@ -173,3 +173,7 @@ Here are its sections and personal notes associated with each chapter:
 ## Win Screen
 [[ColorRect]]
 [[Node Visible property]]
+## Start Menu
+[[Change the Starting Scene]]
+## Autoloads (Singleton Pattern)
+[[Autoload Scene]]
