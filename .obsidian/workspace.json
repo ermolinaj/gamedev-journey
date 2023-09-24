@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Prototypes/Dungeon crawler prototype.md",
+                "file": "Daily Progress/2023-09-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d9c36890ed4eeeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Progress/2023-09-22.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "282cca7ecea96c66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Progress/2023-09-24.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Prototypes/Dungeon crawler prototype.md",
+                "file": "Daily Progress/2023-09-24.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Prototypes/Dungeon crawler prototype.md",
+                "file": "Daily Progress/2023-09-24.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Prototypes/Dungeon crawler prototype.md"
+                "file": "Daily Progress/2023-09-24.md"
               }
             }
           },
@@ -156,12 +181,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57bffd3a98aa839c",
+  "active": "282cca7ecea96c66",
   "lastOpenFiles": [
+    "Daily Progress/2023-09-22.md",
+    "Daily Progress/2023-09-24.md",
+    "Prototypes/Dungeon crawler prototype.md",
+    "Attachments/Pasted image 20230924203643.png",
+    "Attachments/Pasted image 20230924203635.png",
+    "Attachments/Pasted image 20230924203528.png",
+    "Learning/Learning Notes/Godot 4/get_node().md",
+    "Learning/Learning Notes/Godot 4/class_name.md",
+    "Daily Progress/2023-09-19.md",
     "Daily Progress/2023-09-18.md",
+    "Learning/Learning Notes/Godot 4/add_child().md",
+    "Learning/Learning Notes/Godot 4/Scene.md",
     "Learning/Learning Notes/Godot 4/Nodes/Sprite2D.md",
     "Learning/Learning Notes/Godot 4/Nodes/Tilemap.md",
-    "Prototypes/Dungeon crawler prototype.md",
     "Daily Progress/2023-09-16.md",
     "Learning/Learning Notes/Godot 4/Nodes/Raycast2D.md",
     "Attachments/Pasted image 20230917221132.png",
@@ -185,18 +220,8 @@
     "Learning/Learning Notes/Godot 4/Autoload Scene.md",
     "Attachments/Pasted image 20230912114648.png",
     "Attachments/Pasted image 20230912012830.png",
-    "Change the Starting Scene.md",
-    "Daily Progress/2023-09-11.md",
-    "Start Menu.md",
-    "Learning/Learning Notes/Godot 4/Node Visible property.md",
     "Attachments/Pasted image 20230911234400.png",
-    "Learning/Learning Notes/Godot 4/Button.md",
-    "Learning/Learning Notes/Godot 4/Nodes/ColorRect.md",
-    "Learning/Learning Notes/Godot 4/Nodes/Create a Node from script.md",
     "Attachments/Pasted image 20230911014402.png",
-    "Attachments/Pasted image 20230911014337.png",
-    "Attachments/Pasted image 20230911014228.png",
-    "Attachments/Pasted image 20230911014202.png",
     "Roadmap/MindMap.canvas",
     "Learning/Learning Notes/Godot 4/Cool Tricks",
     "Learning/Learning Notes/Godot 4/Nodes",
